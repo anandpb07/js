@@ -6,9 +6,13 @@ bigint = large numbers
 null = object,standalone value
 string = ""
 symbol = unique
- 
+string = ""
 
 */
+console.log(typeof undefined); // undefined
+
+console.log(typeof null);  // object
+
 console.log(3+3)
                        // Readibility
 console.log("Anand")
