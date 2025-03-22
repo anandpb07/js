@@ -1,0 +1,9 @@
+Javacsript Execution Context
+
+{} -> Global Execution Context
+   -> Funcion Execution Context
+   -> Eval Execution Context
+
+Js Code run in two phase :- 1. Global Execution phase
+                            2. Memory Creation phase
+                            3. Execution Phase
