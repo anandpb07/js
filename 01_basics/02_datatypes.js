@@ -6,7 +6,7 @@ bigint = large numbers
 null = object,standalone value
 string = ""
 symbol = unique
-string = ""
+
 
 */
 console.log(typeof undefined); // undefined

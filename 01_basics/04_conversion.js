@@ -1,7 +1,7 @@
 console.log(null > 0 );
 console.log(null == 0 );
 console.log(null >= 0);
-// This type of different datatypes should not be caompared
+// This type of different datatypes should not be campared
 
 console.log(undefined == 0);
 console.log(undefined > 0);
